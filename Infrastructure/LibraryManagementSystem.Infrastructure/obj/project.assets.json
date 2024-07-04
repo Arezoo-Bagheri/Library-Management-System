@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LibraryManagementSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LibraryManagementSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementSystem.Application.dll": {}
+        }
+      },
+      "LibraryManagementSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LibraryManagementSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/LibraryManagementSystem.Application/LibraryManagementSystem.Application.csproj",
+      "msbuildProject": "../../Core/LibraryManagementSystem.Application/LibraryManagementSystem.Application.csproj"
+    },
+    "LibraryManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/LibraryManagementSystem.Domain/LibraryManagementSystem.Domain.csproj",
+      "msbuildProject": "../../Core/LibraryManagementSystem.Domain/LibraryManagementSystem.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LibraryManagementSystem.Application >= 1.0.0",
+      "LibraryManagementSystem.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arezo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Project\\LibraryManagementSystem\\Infrastructure\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "projectName": "LibraryManagementSystem.Infrastructure",
+      "projectPath": "E:\\Project\\LibraryManagementSystem\\Infrastructure\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\LibraryManagementSystem\\Infrastructure\\LibraryManagementSystem.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Arezo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj": {
+              "projectPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj"
+            },
+            "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj": {
+              "projectPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
