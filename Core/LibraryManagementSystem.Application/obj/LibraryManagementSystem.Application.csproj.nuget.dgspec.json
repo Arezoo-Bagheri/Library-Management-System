@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj": {}
+    "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj": {}
   },
   "projects": {
-    "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj": {
+    "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
+        "projectUniqueName": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
         "projectName": "LibraryManagementSystem.Application",
-        "projectPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
+        "projectPath": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Application\\obj\\",
+        "outputPath": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj": {
-                "projectPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj"
+              "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj": {
+                "projectPath": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj": {
+    "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj",
+        "projectUniqueName": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj",
         "projectName": "LibraryManagementSystem.Domain",
-        "projectPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj",
+        "projectPath": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\LibraryManagementSystem\\Core\\LibraryManagementSystem.Domain\\obj\\",
+        "outputPath": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
