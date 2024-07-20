@@ -1,0 +1,16 @@
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\bin\Debug\net8.0\LibraryManagementSystem.Application.deps.json
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\bin\Debug\net8.0\LibraryManagementSystem.Application.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\bin\Debug\net8.0\LibraryManagementSystem.Application.pdb
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.csproj.AssemblyReference.cache
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.AssemblyInfoInputs.cache
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.AssemblyInfo.cs
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.sourcelink.json
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryM.F8D78A19.Up2Date
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\refint\LibraryManagementSystem.Application.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\LibraryManagementSystem.Application.pdb
+D:\Library-Management-System\Core\LibraryManagementSystem.Application\obj\Debug\net8.0\ref\LibraryManagementSystem.Application.dll

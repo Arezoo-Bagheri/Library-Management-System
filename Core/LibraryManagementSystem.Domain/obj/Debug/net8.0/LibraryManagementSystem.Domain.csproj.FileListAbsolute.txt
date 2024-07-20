@@ -1,0 +1,12 @@
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.deps.json
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfo.cs
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.sourcelink.json
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\refint\LibraryManagementSystem.Domain.dll
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+D:\Library-Management-System\Core\LibraryManagementSystem.Domain\obj\Debug\net8.0\ref\LibraryManagementSystem.Domain.dll
