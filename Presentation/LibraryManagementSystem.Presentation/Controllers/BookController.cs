@@ -1,5 +1,7 @@
 ﻿using LibraryManagementSystem.Application.Books.Commands.CreateBook;
 using LibraryManagementSystem.Application.Books.Commands.UpdateBook;
+using LibraryManagementSystem.Application.Books.Queries.GetBookById;
+using LibraryManagementSystem.Domain.Entities;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,7 +25,6 @@ namespace LibraryManagementSystem.Presentation.Controllers
             return await _mediator.Send(command);
         }
 
-
         [HttpPut("{id}")]
         public async Task<ActionResult> Update(int id, UpdateBookCommand command)
         {
@@ -34,6 +35,16 @@ namespace LibraryManagementSystem.Presentation.Controllers
             return NoContent();
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Book>> GetById([FromQuery] int id)
+        {
+            var book = await _mediator.Send(new GetBookByIdQuery { Id = id });
+
+            if (book == null)
+                return NotFound();
+
+            return Ok(book);
+        }
 
     }
 }

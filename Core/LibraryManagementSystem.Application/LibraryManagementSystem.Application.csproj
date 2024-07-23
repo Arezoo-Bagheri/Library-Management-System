@@ -17,8 +17,4 @@
     <ProjectReference Include="..\LibraryManagementSystem.Domain\LibraryManagementSystem.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Books\Queries\" />
-  </ItemGroup>
-
 </Project>
