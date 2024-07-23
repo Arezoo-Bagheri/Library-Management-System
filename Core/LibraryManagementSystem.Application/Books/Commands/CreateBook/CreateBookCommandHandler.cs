@@ -22,7 +22,7 @@ namespace LibraryManagementSystem.Application.Books.Commands.CreateBook
             };
 
             await _uow.Books.AddAsync(book);
-            await _uow.SaveChangesResult();
+            await _uow.SaveChangesResult(cancellationToken);
             return book.Id;
         }
 

@@ -27,10 +27,9 @@ namespace LibraryManagementSystem.Infrastructure.UnitOfWork
             _context.Dispose();
         }
 
-        public async Task<int> SaveChangesResult()
+        public async Task<int> SaveChangesResult(CancellationToken cancellationToken = default)
         {
-            return await _context.SaveChangesAsync();
+            return await _context.SaveChangesAsync(cancellationToken);
         }
-
     }
 }

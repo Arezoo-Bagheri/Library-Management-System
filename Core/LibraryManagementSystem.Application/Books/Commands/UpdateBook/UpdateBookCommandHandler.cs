@@ -23,7 +23,7 @@ namespace LibraryManagementSystem.Application.Books.Commands.UpdateBook
             book.IsAvailable = request.IsAvailable;
 
             await _uow.Books.UpdateAsync(book);
-            await _uow.SaveChangesResult();
+            await _uow.SaveChangesResult(cancellationToken);
 
 
             return book.Id;

@@ -9,7 +9,7 @@ namespace LibraryManagementSystem.Application
         IRepository<Loan> Loans { get; }
         IRepository<User> Users { get; }
 
-        Task<int> SaveChangesResult();
+        Task<int> SaveChangesResult(CancellationToken cancellationToken = default);
 
     }
 }
