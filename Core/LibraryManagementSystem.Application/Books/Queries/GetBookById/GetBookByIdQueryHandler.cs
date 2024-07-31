@@ -6,7 +6,6 @@ namespace LibraryManagementSystem.Application.Books.Queries.GetBookById
     public class GetBookByIdQueryHandler : IRequestHandler<GetBookByIdQuery, Book>
     {
         private readonly IApplicationUnitOfWork _uow;
-
         public GetBookByIdQueryHandler(IApplicationUnitOfWork uow) => _uow = uow;
 
 
@@ -15,5 +14,7 @@ namespace LibraryManagementSystem.Application.Books.Queries.GetBookById
             var book = await _uow.Books.GetByIdAsync(request.Id);
             return book;
         }
+
     }
+
 }

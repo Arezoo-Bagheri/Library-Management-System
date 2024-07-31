@@ -6,7 +6,6 @@ namespace LibraryManagementSystem.Application.Books.Commands.CreateBook
     public class CreateBookCommandHandler : IRequestHandler<CreateBookCommand, int>
     {
         private readonly IApplicationUnitOfWork _uow;
-
         public CreateBookCommandHandler(IApplicationUnitOfWork uow) => _uow = uow;
 
 
@@ -25,6 +24,6 @@ namespace LibraryManagementSystem.Application.Books.Commands.CreateBook
             await _uow.SaveChangesResult(cancellationToken);
             return book.Id;
         }
-
     }
+
 }

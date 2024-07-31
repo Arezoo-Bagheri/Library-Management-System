@@ -7,4 +7,5 @@ namespace LibraryManagementSystem.Application.Books.Queries.GetBookById
     {
         public int Id { get; set; }
     }
+
 }

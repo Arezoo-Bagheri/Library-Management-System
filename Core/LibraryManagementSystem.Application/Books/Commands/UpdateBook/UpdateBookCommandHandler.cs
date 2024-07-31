@@ -5,7 +5,6 @@ namespace LibraryManagementSystem.Application.Books.Commands.UpdateBook
     public class UpdateBookCommandHandler : IRequestHandler<UpdateBookCommand, int>
     {
         private readonly IApplicationUnitOfWork _uow;
-
         public UpdateBookCommandHandler(IApplicationUnitOfWork uow) => _uow = uow;
 
 
