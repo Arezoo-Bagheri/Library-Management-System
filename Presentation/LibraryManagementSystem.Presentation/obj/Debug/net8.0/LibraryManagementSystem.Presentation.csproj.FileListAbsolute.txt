@@ -144,3 +144,4 @@ D:\Library-Management-System\Presentation\LibraryManagementSystem.Presentation\b
 D:\Library-Management-System\Presentation\LibraryManagementSystem.Presentation\bin\Debug\net8.0\MediatR.dll
 D:\Library-Management-System\Presentation\LibraryManagementSystem.Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
 D:\Library-Management-System\Presentation\LibraryManagementSystem.Presentation\bin\Debug\net8.0\FluentValidation.dll
+D:\Library-Management-System\Presentation\LibraryManagementSystem.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
