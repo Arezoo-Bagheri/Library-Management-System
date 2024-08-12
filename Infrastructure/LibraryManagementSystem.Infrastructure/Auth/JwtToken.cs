@@ -25,7 +25,6 @@ namespace LibraryManagementSystem.Infrastructure.Auth
             {
             new Claim(ClaimTypes.NameIdentifier, userId),
             new Claim(ClaimTypes.Name, username),
-         //   new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
             var token = new JwtSecurityToken(
