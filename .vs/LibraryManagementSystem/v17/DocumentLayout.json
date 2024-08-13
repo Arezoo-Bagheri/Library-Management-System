@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Library-Management-System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4617AFD2-0597-4366-B8FC-9B4144657C98}|Tests\\Library-Management-System.Tests\\Library-Management-System.Tests.csproj|d:\\library-management-system\\tests\\library-management-system.tests\\application\\commands\\books\\updatebookcommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4617AFD2-0597-4366-B8FC-9B4144657C98}|Tests\\Library-Management-System.Tests\\Library-Management-System.Tests.csproj|solutionrelative:tests\\library-management-system.tests\\application\\commands\\books\\updatebookcommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4617AFD2-0597-4366-B8FC-9B4144657C98}|Tests\\Library-Management-System.Tests\\Library-Management-System.Tests.csproj|d:\\library-management-system\\tests\\library-management-system.tests\\application\\commands\\books\\createbookcommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4617AFD2-0597-4366-B8FC-9B4144657C98}|Tests\\Library-Management-System.Tests\\Library-Management-System.Tests.csproj|solutionrelative:tests\\library-management-system.tests\\application\\commands\\books\\createbookcommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\createbook\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,14 +91,6 @@
       "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|d:\\library-management-system\\core\\librarymanagementsystem.application\\books\\commands\\deletebook\\deletebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3314E01F-9090-4374-907B-E282D061FD21}|Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj|solutionrelative:core\\librarymanagementsystem.application\\books\\commands\\deletebook\\deletebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,43 +143,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UpdateBookCommandHandlerTest.cs",
+              "DocumentMoniker": "D:\\Library-Management-System\\Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\UpdateBookCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\UpdateBookCommandHandlerTest.cs",
+              "ToolTip": "D:\\Library-Management-System\\Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\UpdateBookCommandHandlerTest.cs",
+              "RelativeToolTip": "Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\UpdateBookCommandHandlerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:43:43.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreateBookCommandHandlerTest.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\CreateBookCommandHandlerTest.cs",
               "RelativeDocumentMoniker": "Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\CreateBookCommandHandlerTest.cs",
               "ToolTip": "D:\\Library-Management-System\\Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\CreateBookCommandHandlerTest.cs",
               "RelativeToolTip": "Tests\\Library-Management-System.Tests\\Application\\Commands\\Books\\CreateBookCommandHandlerTest.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAwwAcAAAAtAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T09:25:36.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetAllBooksQuery.cs",
-              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
-              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
-              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
-              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:01:53.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetAllBooksQueryHandler.cs",
-              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:04:46.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Presentation\\LibraryManagementSystem.Presentation\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Presentation\\LibraryManagementSystem.Presentation\\Controllers\\BookController.cs",
@@ -187,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Infrastructure\\LibraryManagementSystem.Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LibraryManagementSystem.Infrastructure\\ApplicationDbContext.cs",
@@ -199,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IApplicationUnitOfWork.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\IApplicationUnitOfWork.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\IApplicationUnitOfWork.cs",
@@ -211,7 +204,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:18:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:16:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:04:46.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetAllBooks\\GetAllBooksQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:01:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateBookCommandHandler.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommandHandler.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommandHandler.cs",
@@ -223,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Domain\\Common\\BaseEntity.cs",
@@ -235,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Infrastructure\\LibraryManagementSystem.Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LibraryManagementSystem.Infrastructure\\Repositories\\Repository.cs",
@@ -247,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Library-Management-System\\Presentation\\LibraryManagementSystem.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\LibraryManagementSystem.Presentation\\appsettings.json",
@@ -259,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Presentation\\LibraryManagementSystem.Presentation\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Presentation\\LibraryManagementSystem.Presentation\\Controllers\\AuthController.cs",
@@ -271,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "IJwtToken.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Auth\\IJwtToken.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Auth\\IJwtToken.cs",
@@ -283,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "JwtToken.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Infrastructure\\LibraryManagementSystem.Infrastructure\\Auth\\JwtToken.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LibraryManagementSystem.Infrastructure\\Auth\\JwtToken.cs",
@@ -295,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Presentation\\LibraryManagementSystem.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\LibraryManagementSystem.Presentation\\Program.cs",
@@ -307,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Presentation\\LibraryManagementSystem.Presentation\\Model\\UserLogin.cs",
               "RelativeDocumentMoniker": "Presentation\\LibraryManagementSystem.Presentation\\Model\\UserLogin.cs",
@@ -319,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "GetBookByIdQuery.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQuery.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQuery.cs",
@@ -331,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "GetBookByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQueryHandler.cs",
@@ -343,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "UpdateBookCommandValidator.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandValidator.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandValidator.cs",
@@ -355,19 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UpdateBookCommandHandler.cs",
-              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
-              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
-              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T14:16:29.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "GetBookByIdQueryValidator.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQueryValidator.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Queries\\GetBookById\\GetBookByIdQueryValidator.cs",
@@ -379,19 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UpdateBookCommand.cs",
-              "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
-              "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
-              "ToolTip": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
-              "RelativeToolTip": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\UpdateBook\\UpdateBookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:18:54.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DeleteBookCommandValidator.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommandValidator.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommandValidator.cs",
@@ -403,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DeleteBookCommandHandler.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommandHandler.cs",
@@ -415,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DeleteBookCommand.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommand.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\DeleteBook\\DeleteBookCommand.cs",
@@ -427,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateBookCommandValidator.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommandValidator.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommandValidator.cs",
@@ -439,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CreateBookCommand.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommand.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\Books\\Commands\\CreateBook\\CreateBookCommand.cs",
@@ -451,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\IBaseRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\IBaseRepository\\IRepository.cs",
@@ -463,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "LibraryManagementSystem.Application.csproj",
               "DocumentMoniker": "D:\\Library-Management-System\\Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
               "RelativeDocumentMoniker": "Core\\LibraryManagementSystem.Application\\LibraryManagementSystem.Application.csproj",
@@ -475,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ApplicationUnitOfWork.cs",
               "DocumentMoniker": "D:\\Library-Management-System\\Infrastructure\\LibraryManagementSystem.Infrastructure\\UnitOfWork\\ApplicationUnitOfWork.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LibraryManagementSystem.Infrastructure\\UnitOfWork\\ApplicationUnitOfWork.cs",
